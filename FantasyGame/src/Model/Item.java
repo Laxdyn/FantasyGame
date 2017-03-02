@@ -1,6 +1,6 @@
 package Model;
 
-public class Item {
+public class Item extends SpaceFiller{
 
 	private String name;
 
